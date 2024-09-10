@@ -1,2 +1,2 @@
 # practice.JS
-HI this is a codespace fori am improving my javascript here
+HI this is a codespace for improving my javascript here
